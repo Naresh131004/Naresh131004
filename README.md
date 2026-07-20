@@ -1,7 +1,7 @@
 👋 Hi, I’m an aspiring Software Development Engineer (SDE) and Data Engineer. 
 
 🚀 I specialize in building efficient applications, managing robust databases, and solving complex algorithmic challenges.<br/>
-🛠️ Tech Stack: Python, SQL, C++, and Data Engineering pipelines.<br/>
+🛠️ Tech Stack: Python, SQL, and Data Engineering pipelines.<br/>
 📈 Passionate about continuous learning, optimizing system performance, and transforming data into meaningful solutions.<br/>
 
 # 💫 About Me:
